@@ -8,7 +8,7 @@
 - [ ] SPICE
 - [ ] BERTScore
 ### Universal Clinical Metrics:
-- [ ] Classification (acc, p, r, auc)
+- [ ] Classification
 - [ ] IoU
 - [ ] Dice
 ### Domain-specific Clinical Metrics:
